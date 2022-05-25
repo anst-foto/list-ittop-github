@@ -1,7 +1,7 @@
-# Список аккаунтов Компьютерной академии ШАГ на GitHub'е
+# Список аккаунтов Компьютерной академии TOP на GitHub'е
 
-- [Воронеж](https://github.com/itstep-vrn)
-- [Иркутск](https://github.com/itstep-irkutsk)
-- [Шамбала](https://github.com/itstep-shambala)
-- [Ульяновск](https://github.com/itstep-ulyanovsk)
-- [Тольятти](https://github.com/itstep-tolyatti)
+- [Воронеж](https://github.com/it-top-vrn)
+- [Иркутск](https://github.com/it-top-irkutsk)
+- [Шамбала](https://github.com/it-top-shambala)
+- [Ульяновск](https://github.com/it-top-ulyanovsk)
+- [Тольятти](https://github.com/it-top-tolyatti)
